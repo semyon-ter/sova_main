@@ -1,0 +1,8 @@
+node_modules/
+src/
+*.json
+*.log
+gulpfile.coffee
+gulpfile.js
+.htaccess
+.sublime-gulp.cache
